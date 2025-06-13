@@ -3,6 +3,6 @@ from exe_helper import *
 from customization import *
 
 appCustomization = Customize(appname = "oDev Python App",
-                          appsource = "https://getsamplefiles.com/download/zip/sample-1.zip",
+                          appsource = "https://getsamplefiles.com/download/zip/sample-1.zip", # random thing i found
                           appversion = "1.0.0",
                           appicon = resource_path("icon.ico"))
