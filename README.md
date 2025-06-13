@@ -15,7 +15,7 @@ A simple Python project for installing custom EXEs in a ZIP file from the intern
 ## Installation [TODO]
 
 ```bash
-git clone https://github.com/oDevelopmentt/installer.git
+git clone https://github.com/Orstando/installer.git
 cd installer
 python setup.py
 ```
