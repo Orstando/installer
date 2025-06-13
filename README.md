@@ -1,7 +1,6 @@
 # Python Installer
 
-A simple Python project for installing custom EXEs.
-Will be put into a project that does things similar to [Ninite](https://ninite.com/) (https://ninite.com/)
+A simple Python project for installing custom EXEs in a ZIP file from the internet.
 
 ## Features
 
